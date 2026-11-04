@@ -6,30 +6,30 @@ I'm a postgraduate Computer Science student specializing in Data Science, intere
 
 I enjoy learning new technologies and building practical projects that solve real-world problems.
 
-## 🎓 Education
+## Education
 - MSc Computer Science (Data Science)
 - BSc Computer Science
 
-## 💻 Technical Skills
+## Technical Skills
 - **Programming:** Python, JavaScript
 - **Web Development:** HTML, CSS
 - **Data Science:** Machine Learning, Data Analysis
 - **Tools:** Git, GitHub, VS Code
 
-## 🚀 Projects
+## Projects
 
 ### 1. Seena Battery House – Business Website
 - Developed a responsive business website.
 - Technologies: HTML, CSS, JavaScript.
 - Features: Product showcase, gallery and WhatsApp integration.
 
-## 🌱 Currently Learning
+## Currently Learning
 - Machine Learning
 - Data Analytics
 - Generative AI
 - Deep Learning
 
-## 📫 Connect With Me
+## Connect With Me
 - GitHub: https://github.com/nandana-dev
 
 ---
